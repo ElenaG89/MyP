@@ -1,6 +1,3 @@
 # MyP
-Proyectos de Modelado y Programación
-
-
-# 
+Proyecto 3, Modelado y Programación
 Alejandra Aguirre Chávez
